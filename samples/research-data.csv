@@ -1,0 +1,4 @@
+title,authors,year,venue,doi,abstract,keywords
+Deep Learning for Medical Image Analysis,Ahmed Ali; Sara Hassan,2022,IEEE Access,10.1109/ACCESS.2022.0001,A survey of deep learning methods for medical imaging.,deep learning; medical imaging
+Graph Neural Networks for Recommendation,Omar Youssef,2023,ACM RecSys,10.1145/RECSYS.2023.0002,Graph-based approaches for collaborative filtering.,graph neural networks; recommendation
+Natural Language Processing for Arabic Text,Mona Fathy; Karim Adel,2021,ACL,,Arabic NLP with transformer models.,nlp; arabic

@@ -1,0 +1,3 @@
+title,domain,description,required_skills
+Predictive Maintenance for Factory Machines,manufacturing,Reduce unplanned downtime using sensor data.,machine learning; time series
+Smart Recommendation for Logistics Routes,logistics,Optimize delivery routes with historical data.,graph algorithms; optimization
